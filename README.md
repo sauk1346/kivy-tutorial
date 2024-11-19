@@ -35,9 +35,9 @@ pip install kivy
 Al comenzar un proyecto, importar las siguiente librerías
 
 ```python
-import kivy
-from kivy.app import App
-from kivy.uix.label import Label
+import kivy # necesario
+from kivy.app import App # necesario
+from kivy.uix.label import Label # opcional, trae la widget Label
 ```
 
 ## 3. Ejemplo de uso
@@ -136,17 +136,33 @@ if __name__ == "__main__":
 
 # Ejercicios
 
-1. Hello World app
-2. Boxes and Buttons
-3. Layouts
-4. Height and Width
-5. `.kv` Files
-6. Kivy builder
-7. Changing Kivy Button Colors
-8. Python Box Layout
-9. Setting Default Widget Properties
-10. Change Background Color and Text Color of Labels
-11. Two Ways to Change Background Colors
-12. How to use Images with Kivy
-13. Kivy Float Layout
-14. How to Update Labels
+- [x] Ej01: Hello World app
+- [x] Ej02: Boxes and Buttons
+- [x] Ej03: Layouts
+- [x] Ej04: Height and Width
+- [x] Ej05: `.kv` Files
+- [x] Ej06: Kivy builder
+- [x] Ej07: Changing Kivy Button Colors
+- [x] Ej08: Python Box Layout
+- [x] Ej09: Setting Default Widget Properties
+- [x] Ej10: Change Background Color and Text Color of Labels
+- [x] Ej11: Two Ways to Change Background Colors
+- [x] Ej12: How to use Images with Kivy
+- [x] Ej13: Kivy Float Layout
+- [x] Ej14: How to Update Labels
+- [x] Ej15: Build a Simple Calculator App
+- [ ] Ej16: Calculator Addition Function
+- [ ] Ej17: Secondary Calculator Button Functions
+- [ ] Ej18: Fix Our Decimal Calculator Problem
+- [ ] Ej19: Math Calculator Buttons With `eval()`
+- [ ] Ej20: Standalone Python EXE Executable
+- [ ] Ej21: Kivy 2.0 (old news)
+- [ ] Ej22: How to Create Rounded Buttons with Kivy
+- [ ] Ej23: Image Viewer with `FileChooserIconView` and `FileChooserListView`
+- [ ] Ej24: Spell Checker with Kivy
+- [ ] Ej25: Sliders for Kivy
+- [ ] Ej26: Accordions for Kivy
+- [ ] Ej27: Carousels for Kivy
+- [ ] Ej28: How to create Checkboxes with Kivy
+- [ ] Ej29: How to create buttons for Kivy
+- [ ] Ej30: How to create Popup Boxes for Kivy
