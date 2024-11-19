@@ -136,33 +136,68 @@ if __name__ == "__main__":
 
 # Ejercicios
 
-- [x] Ej01: Hello World app
-- [x] Ej02: Boxes and Buttons
-- [x] Ej03: Layouts
-- [x] Ej04: Height and Width
-- [x] Ej05: `.kv` Files
-- [x] Ej06: Kivy builder
-- [x] Ej07: Changing Kivy Button Colors
-- [x] Ej08: Python Box Layout
-- [x] Ej09: Setting Default Widget Properties
-- [x] Ej10: Change Background Color and Text Color of Labels
-- [x] Ej11: Two Ways to Change Background Colors
-- [x] Ej12: How to use Images with Kivy
-- [x] Ej13: Kivy Float Layout
-- [x] Ej14: How to Update Labels
-- [x] Ej15: Build a Simple Calculator App
-- [ ] Ej16: Calculator Addition Function
-- [ ] Ej17: Secondary Calculator Button Functions
-- [ ] Ej18: Fix Our Decimal Calculator Problem
-- [ ] Ej19: Math Calculator Buttons With `eval()`
-- [ ] Ej20: Standalone Python EXE Executable
-- [ ] Ej21: Kivy 2.0 (old news)
-- [ ] Ej22: How to Create Rounded Buttons with Kivy
-- [ ] Ej23: Image Viewer with `FileChooserIconView` and `FileChooserListView`
-- [ ] Ej24: Spell Checker with Kivy
-- [ ] Ej25: Sliders for Kivy
-- [ ] Ej26: Accordions for Kivy
-- [ ] Ej27: Carousels for Kivy
-- [ ] Ej28: How to create Checkboxes with Kivy
-- [ ] Ej29: How to create buttons for Kivy
-- [ ] Ej30: How to create Popup Boxes for Kivy
+- [x] **Ej01:** Hello World app
+- [x] **Ej02:** Boxes and Buttons
+- [x] **Ej03:** Layouts
+- [x] **Ej04:** Height and Width
+- [x] **Ej05:** `.kv` Files
+- [x] **Ej06:** Kivy builder
+- [x] **Ej07:** Changing Kivy Button Colors
+- [x] **Ej08:** Python Box Layout
+- [x] **Ej09:** Setting Default Widget Properties
+- [x] **Ej10:** Change Background Color and Text Color of Labels
+- [x] **Ej11:** Two Ways to Change Background Colors
+- [x] **Ej12:** How to use Images with Kivy
+- [x] **Ej13:** Kivy Float Layout
+- [x] **Ej14:** How to Update Labels
+- [x] **Ej15:** Build a Simple Calculator App
+- [x] **Ej16:** Calculator Addition Function
+- [x] **Ej17:** Secondary Calculator Button Functions
+- [x] **Ej18:** Fix Our Decimal Calculator Problem
+- [x] **Ej19:** Math Calculator Buttons With `eval()`
+- [ ] **Ej20:** Standalone Python EXE Executable
+- [ ] **Ej21:** Kivy 2.0
+- [x] **Ej22:** How to Create Rounded Buttons with Kivy
+- [x] **Ej23:** Image Viewer with `FileChooserIconView` and `FileChooserListView`
+- [x] **Ej24:** Spell Checker with Kivy
+- [x] **Ej25:** Sliders for Kivy
+- [ ] **Ej26:** Accordions for Kivy
+- [ ] **Ej27:** Carousels for Kivy
+- [ ] **Ej28:**   How to create Checkboxes with Kivy
+- [ ] **Ej29:** How to create buttons for Kivy
+- [ ] **Ej30:** How to create Popup Boxes for Kivy
+- [ ] **Ej31:** Multiple Windows with `ScreenManager`
+- [ ] **Ej32:** Spinner Dropdowns
+- [ ] **Ej33:** How to resize Widgets with Splitters
+- [ ] **Ej34:** How to create Tabs in Kivy
+- [ ] **Ej35:** How to use Images as Buttons in Kivy
+- [ ] **Ej36:** How to Create Animation with Kivy
+- [ ] **Ej37:** How to create Progress Bars with Kivy
+- [ ] **Ej38:** How to use Markup to change Text Style
+- [ ] **Ej39:** How to create a Switch with Kivy
+- [ ] **Ej40:** Intro to KivyMD Installation
+- [ ] **Ej41:** How to teach yourself KivyMD quickly
+- [ ] **Ej42:** 
+- [ ] **Ej43:**
+- [ ] **Ej44:**
+- [ ] **Ej45:**
+- [ ] **Ej46:**
+- [ ] **Ej47:**
+- [ ] **Ej48:**
+- [ ] **Ej49:**
+- [ ] **Ej50:**
+- [ ] **Ej51:**
+- [ ] **Ej52:**
+- [ ] **Ej53:**
+- [ ] **Ej54:**
+- [ ] **Ej55:**
+- [ ] **Ej56:**
+- [ ] **Ej57:**
+- [ ] **Ej58:**
+- [ ] **Ej59:**
+- [ ] **Ej60:**
+- [ ] **Ej61:**
+- [ ] **Ej62:**
+- [ ] **Ej63:**
+- [ ] **Ej64:**
+- [ ] **Ej65:**
