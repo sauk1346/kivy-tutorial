@@ -163,27 +163,27 @@ if __name__ == "__main__":
 - [ ] **Ej39:** How to create a Switch with Kivy
 - [ ] **Ej40:** Intro to KivyMD Installation
 - [ ] **Ej41:** How to teach yourself KivyMD quickly
-- [ ] **Ej42:** 
-- [ ] **Ej43:**
-- [ ] **Ej44:**
-- [ ] **Ej45:**
-- [ ] **Ej46:**
-- [ ] **Ej47:**
-- [ ] **Ej48:**
-- [ ] **Ej49:**
-- [ ] **Ej50:**
-- [ ] **Ej51:**
-- [ ] **Ej52:**
-- [ ] **Ej53:**
-- [ ] **Ej54:**
-- [ ] **Ej55:**
-- [ ] **Ej56:**
-- [ ] **Ej57:**
-- [ ] **Ej58:**
-- [ ] **Ej59:**
-- [ ] **Ej60:**
-- [ ] **Ej61:**
-- [ ] **Ej62:**
-- [ ] **Ej63:**
-- [ ] **Ej64:**
-- [ ] **Ej65:**
+- [ ] **Ej42:** Which is better Kivy or Tkinter?
+- [ ] **Ej43:** Using Color Themes for KivyMD
+- [ ] **Ej44:** Creating a Login Screen with KivyMD
+- [ ] **Ej45:** Create a Bottom Bar Button with KivyMD
+- [ ] **Ej46:** Navbar with Icons, with KivyMD
+- [ ] **Ej47:** Speed Dial Button Menu widh KivyMD
+- [ ] **Ej48:** Alert Dialog Boxes for KivyMD
+- [ ] **Ej49:** Build and Image Swiper App for KivyMD
+- [ ] **Ej50:** Image Swiper App Tricks and Tips
+- [ ] **Ej51:** KivyMD Date Picker
+- [ ] **Ej52:** KivyMD Time Picker
+- [ ] **Ej53:** KivyMD DataTables
+- [ ] **Ej54:** KivyMD Pagination for Data Tables
+- [ ] **Ej55:** Using SQLite3 Databases with Kivy
+- [ ] **Ej56:** Using MySQL Database with Kivy
+- [ ] **Ej57:** Using Postgres Database with Kivy
+- [ ] **Ej58:** Remove Titlebar from Kivy App
+- [ ] **Ej59:** Add Matplotlib Graph to Kivy
+- [ ] **Ej60:** Add a Map to your Kivy App
+- [ ] **Ej61:** Using Python Code ond a `.kv` Design File
+- [ ] **Ej62:** Add Keyboard with `VKeyboard`
+- [ ] **Ej63:** Build a TicTacToe Game Logic Part1
+- [ ] **Ej64:** Build a TicTacToe Game Logic Part2
+- [ ] **Ej65:** Build a TicTacToe Game Logic Part3
