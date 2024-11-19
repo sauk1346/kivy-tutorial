@@ -2,7 +2,6 @@
 
 - Fuente: Codemy.com: <https://www.youtube.com/playlist?list=PLCC34OHNcOtpz7PJQ7Tv7hqFBP_xDDjqg>
 
-
 ## 1. Instalación
 
 1. Crear carpeta de proyecto:
@@ -11,20 +10,7 @@
 mkdir kivy-tutorial
 ```
 
-2. Crear entorno para instalar librerías (nombre virt)
-
-```sh
-cd kivy-tutorial
-python -m venv virt
-```
-
-3. Activar entorno
-
-```sh
-.\virt\Scripts\activate
-```
-
-4. Instalar librería kivy
+2. Instalar librería kivy
 
 ```sh
 pip install kivy
