@@ -2,7 +2,24 @@
 
 - Fuente: Codemy.com: <https://www.youtube.com/playlist?list=PLCC34OHNcOtpz7PJQ7Tv7hqFBP_xDDjqg>
 
-## 1. Instalación
+Índice
+<!-- TOC -->
+
+- [Tutorial Kivy](#tutorial-kivy)
+    - [Instalación](#instalaci%C3%B3n)
+    - [Uso de librerías](#uso-de-librer%C3%ADas)
+    - [Ejemplo de uso](#ejemplo-de-uso)
+- [Conceptos](#conceptos)
+    - [Widgets](#widgets)
+    - [Layouts Diseño](#layouts-dise%C3%B1o)
+    - [Arquitectura de una Aplicación](#arquitectura-de-una-aplicaci%C3%B3n)
+    - [Eventos y Propiedades](#eventos-y-propiedades)
+    - [Archivos .kvv](#archivos-kvv)
+- [Ejercicios](#ejercicios)
+
+<!-- /TOC -->
+
+## Instalación
 
 1. Crear carpeta de proyecto:
 
@@ -16,7 +33,7 @@ mkdir kivy-tutorial
 pip install kivy
 ```
 
-## 2. Uso de librerías
+## Uso de librerías
 
 Al comenzar un proyecto, importar las siguiente librerías
 
@@ -26,7 +43,7 @@ from kivy.app import App # necesario
 from kivy.uix.label import Label # opcional, trae la widget Label
 ```
 
-## 3. Ejemplo de uso
+## Ejemplo de uso
 Programa que muestra en pantalla "Hello World!"
 
 ```python
@@ -42,9 +59,9 @@ if __name__ == "__main__":
     MyApp().run()
 ```
 
-# 3. Conceptos
+# Conceptos
 
-## 3.1 Widgets
+## Widgets
 Son los elementos fundamentales que se utilizan para construir interfaces de usuario. Es una clase que representa un elemento, puede ser un botón, un cuadro de texto, una etiqueta, un control deslizante, entre otros
 
 1. **Widgets básicos**
@@ -56,7 +73,7 @@ Son los elementos fundamentales que se utilizan para construir interfaces de usu
     - `Switch`: un interruptor de encendido/apagado
     - `Image`: para mostrar imágenes
 
-## 3.2 Layouts (Diseño)
+## Layouts (Diseño)
 Los layouts definen cómo se organizan y posicionan los widgets dentro de la ventana de la aplicación
 
 **Ejemplos**
@@ -68,14 +85,14 @@ Los layouts definen cómo se organizan y posicionan los widgets dentro de la ven
 - `FloatLayout`: Posiciona widgets usando coordenadas absolutas
 
 
-## 3.3 Arquitectura de una Aplicación
+## Arquitectura de una Aplicación
 Toda aplicación de Kivy tiene una estructura clara que incluye:
 
 1. **Clase de la aplicación (App):** Es el punto de entrada de la aplicación 
 2. **Método `build()`:** Define el widget raíz de la interfaz
 3. **Bucle de eventos:** Administra la interacción entre el usuario y la interfaz
 
-## 3.4 Eventos y Propiedades
+## Eventos y Propiedades
 Los eventos son fundamentales para capturar interacciones del usuario
 
 - **Eventos predeterminados:** Como `on_press` o `on_text`
@@ -83,7 +100,7 @@ Los eventos son fundamentales para capturar interacciones del usuario
 
 En Kivy, las propiedades como `text`, `value` o `color` son observables. Al cambiar, pueden desencadenar acciones
 
-## 3.5 Archivos `.kv`
+## Archivos .kvv`
 Un archivo `.kv` es una forma declarativa de definir la interfaz gráfica, separando el diseño del código lógico
 
 **Ventajas**
@@ -147,11 +164,11 @@ if __name__ == "__main__":
 - [x] **Ej23:** Image Viewer with `FileChooserIconView` and `FileChooserListView`
 - [x] **Ej24:** Spell Checker with Kivy
 - [x] **Ej25:** Sliders for Kivy
-- [ ] **Ej26:** Accordions for Kivy
-- [ ] **Ej27:** Carousels for Kivy
-- [ ] **Ej28:**   How to create Checkboxes with Kivy
-- [ ] **Ej29:** How to create buttons for Kivy
-- [ ] **Ej30:** How to create Popup Boxes for Kivy
+- [x] **Ej26:** Accordions for Kivy
+- [x] **Ej27:** Carousels for Kivy
+- [x] **Ej28:** How to create Checkboxes with Kivy
+- [x] **Ej29:** How to create buttons for Kivy
+- [x] **Ej30:** How to create Popup Boxes for Kivy
 - [ ] **Ej31:** Multiple Windows with `ScreenManager`
 - [ ] **Ej32:** Spinner Dropdowns
 - [ ] **Ej33:** How to resize Widgets with Splitters
