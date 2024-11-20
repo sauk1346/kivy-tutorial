@@ -15,6 +15,9 @@
     - [Arquitectura de una Aplicación](#arquitectura-de-una-aplicaci%C3%B3n)
     - [Eventos y Propiedades](#eventos-y-propiedades)
     - [Archivos .kvv](#archivos-kvv)
+- [KivyMD](#kivymd)
+    - [Instalación](#instalaci%C3%B3n)
+    - [Código de prueba](#c%C3%B3digo-de-prueba)
 - [Ejercicios](#ejercicios)
 
 <!-- /TOC -->
@@ -137,6 +140,32 @@ if __name__ == "__main__":
     MiApp().run()
 ```
 
+# KivyMD
+es una biblioteca que extiende Kivy, añadiendo interfaces de usuario inspirados en **Material Design**, el leguaje de diseño desarrollado por Google
+
+## Instalación 
+
+1. Ejecutar la siguiente instrucción en la terminal:
+
+```sh
+pip install kivymd
+```
+
+## Código de prueba
+
+```python
+from kivymd.app import MDApp
+from kivymd.uix.label import MDLabel
+
+
+class MainApp(MDApp):
+    def build(self):
+        return MDLabel(text="Hello, World", halign="center")
+
+
+MainApp().run()
+```
+
 # Ejercicios
 
 - [x] **Ej01:** Hello World app
@@ -169,15 +198,15 @@ if __name__ == "__main__":
 - [x] **Ej28:** How to create Checkboxes with Kivy
 - [x] **Ej29:** How to create buttons for Kivy
 - [x] **Ej30:** How to create Popup Boxes for Kivy
-- [ ] **Ej31:** Multiple Windows with `ScreenManager`
-- [ ] **Ej32:** Spinner Dropdowns
-- [ ] **Ej33:** How to resize Widgets with Splitters
-- [ ] **Ej34:** How to create Tabs in Kivy
-- [ ] **Ej35:** How to use Images as Buttons in Kivy
-- [ ] **Ej36:** How to Create Animation with Kivy
-- [ ] **Ej37:** How to create Progress Bars with Kivy
-- [ ] **Ej38:** How to use Markup to change Text Style
-- [ ] **Ej39:** How to create a Switch with Kivy
+- [x] **Ej31:** Multiple Windows with `ScreenManager`
+- [x] **Ej32:** Spinner Dropdowns
+- [x] **Ej33:** How to resize Widgets with Splitters
+- [x] **Ej34:** How to create Tabs in Kivy
+- [x] **Ej35:** How to use Images as Buttons in Kivy
+- [x] **Ej36:** How to Create Animation with Kivy
+- [x] **Ej37:** How to create Progress Bars with Kivy
+- [x] **Ej38:** How to use Markup to change Text Style
+- [x] **Ej39:** How to create a Switch with Kivy
 - [ ] **Ej40:** Intro to KivyMD Installation
 - [ ] **Ej41:** How to teach yourself KivyMD quickly
 - [ ] **Ej42:** Which is better Kivy or Tkinter?
