@@ -14,7 +14,7 @@
     - [Layouts Diseño](#layouts-dise%C3%B1o)
     - [Arquitectura de una Aplicación](#arquitectura-de-una-aplicaci%C3%B3n)
     - [Eventos y Propiedades](#eventos-y-propiedades)
-    - [Archivos .kvv](#archivos-kvv)
+    - [Archivos .kv](#archivos-kv)
 - [KivyMD](#kivymd)
     - [Instalación](#instalaci%C3%B3n)
     - [Código de prueba](#c%C3%B3digo-de-prueba)
@@ -103,7 +103,7 @@ Los eventos son fundamentales para capturar interacciones del usuario
 
 En Kivy, las propiedades como `text`, `value` o `color` son observables. Al cambiar, pueden desencadenar acciones
 
-## Archivos .kvv`
+## Archivos `.kv`
 Un archivo `.kv` es una forma declarativa de definir la interfaz gráfica, separando el diseño del código lógico
 
 **Ventajas**
@@ -207,7 +207,7 @@ MainApp().run()
 - [x] **Ej37:** How to create Progress Bars with Kivy
 - [x] **Ej38:** How to use Markup to change Text Style
 - [x] **Ej39:** How to create a Switch with Kivy
-- [ ] **Ej40:** Intro to KivyMD Installation
+- [x] **Ej40:** Intro to KivyMD Installation
 - [ ] **Ej41:** How to teach yourself KivyMD quickly
 - [ ] **Ej42:** Which is better Kivy or Tkinter?
 - [ ] **Ej43:** Using Color Themes for KivyMD
